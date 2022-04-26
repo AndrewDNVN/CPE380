@@ -1,0 +1,7 @@
+$to = index
+$t1 = SIZE
+$t2 = 2
+$a2 = address of array
+$s1 = address of array
+$s2 = address of oddArray
+$t3 = amount
